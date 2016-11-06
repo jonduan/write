@@ -1,6 +1,6 @@
 permalink: /:year/:month/:title/
 url: "https://snowdj.github.io/write"
-baseurl: "/write/"
+baseurl: "/write"
 author: jd
 highlighter: rouge
 timezone: Asia/Shanghai
