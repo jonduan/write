@@ -1,5 +1,5 @@
 permalink: /:year/:month/:title/
-url: "https://snowdj.github.io/write"
+url: "https://jonduan.github.io/write"
 baseurl: "/write"
 author: jd
 highlighter: rouge
